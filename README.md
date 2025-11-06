@@ -25,7 +25,7 @@ Demostrar dominio básico-intermedio en:
 
 ---
 
-(./image1.png)
+(image1.png)
 
 
 
