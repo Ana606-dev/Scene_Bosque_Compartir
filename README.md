@@ -26,6 +26,7 @@ Demostrar dominio básico-intermedio en:
 ---
 
 ![Imagen escena en el motor](./image1.png)
+![Imagen2 escena en el motor](./image2.png)
 
 
 
