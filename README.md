@@ -24,6 +24,11 @@ Demostrar dominio básico-intermedio en:
 - Aplicación de criterios estéticos y técnicos.
 
 ---
+
+(./Captura de pantalla 2025-11-06 085436.png)
+
+
+
 Créditos
 
 Assets descargados de **Unity Asset Store (Free)**.  
