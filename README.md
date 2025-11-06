@@ -25,7 +25,7 @@ Demostrar dominio básico-intermedio en:
 
 ---
 
-(./Captura de pantalla 2025-11-06 085436.png)
+(./image1.png)
 
 
 
